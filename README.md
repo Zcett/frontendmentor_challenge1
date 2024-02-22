@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Zcett/frontendmentor_challenge1)
-- Live Site URL: [Add live site URL here](https://zcett.github.io/frontendmentor_challenge1/)
+- Solution URL: (https://github.com/Zcett/frontendmentor_challenge1)
+- Live Site URL: (https://zcett.github.io/frontendmentor_challenge1/)
 
 ## My process
 
